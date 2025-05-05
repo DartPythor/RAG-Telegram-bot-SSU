@@ -1,1 +1,1 @@
-# RAG-Telegram-bot-SGU
+# RAG-Telegram-bot-SSU
